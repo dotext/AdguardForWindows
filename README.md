@@ -12,28 +12,21 @@
   <p align="center"> 
     <a href="https://adguard.com/">Website</a> |
     <a href="https://reddit.com/r/Adguard">Reddit</a> |
-    <a href="https://twitter.com/AdGuard">Twitter</a> |
+    <a href="https://x.com/AdGuard">X</a> |
     <a href="https://t.me/adguard_en">Telegram</a>
     <br /><br />
-    <a
-    </a>
-    <a href="https://github.com/AdguardTeam/AdguardForWindows/releases/">
-        <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardForWindows.svg?label=release" alt="Latest release" />
-    </a>
-    <a href="https://github.com/AdguardTeam/AdguardForWindows/releases/">
-    <img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardForWindows.svg?label=beta" alt="Beta version>" />
-    </a>
+    <a href="https://github.com/AdguardTeam/AdguardForWindows/releases/"><img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardForWindows.svg?label=release" alt="Latest release" /></a>
+    <a href="https://github.com/AdguardTeam/AdguardForWindows/releases/"><img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardForWindows.svg?label=beta" alt="Beta version" /></a>
 
 * [Contribution](#contribution)
   * [How to report an issue](#issue)
   * [Translating AdGuard](#contribution-translating)
   * [Other options](#contribution-other)
   * [How to become a Beta tester](#beta-tester)
-* [Our plans](#our-plans)
 
 > ### Disclaimer
 >* AdGuard for Windows is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
->* Privacy policy: https://adguard.com/privacy/windows.html (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
+>* View our [Privacy Policy](https://adguard.com/privacy/windows.html). (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
 
  AdGuard for Windows will not only block all types of ads in any browser and application,<br/>but also offers the highest level of online privacy protection.
 
@@ -52,7 +45,7 @@ To get more information and to download AdGuard for Windows, visit our website [
 
 GitHub can be used to report a bug or to submit a feature request. To do so, go to [this page](https://github.com/AdguardTeam/AdGuardforWindows/issues) and click the *New issue* button.
 
->**Note:** for the filter-related issues (missed ads, false positives etc.) use our [reporting tool](https://reports.adguard.com/new_issue.html).
+>**Note:** for the filter-related issues (missed ads, false positives etc.) use our [reporting tool](https://link.adtidy.org/forward.html?action=report&app=home&from=github).
 
 <a id="contribution-translating"></a>
 ### Translating AdGuard
