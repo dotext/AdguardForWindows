@@ -26,7 +26,7 @@
 
 > ### Disclaimer
 >* AdGuard for Windows is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
->* View our [Privacy Policy](https://adguard.com/privacy/windows.html). (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
+>* View our [Privacy Policy](https://adguard.com/privacy/windows.html) (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
 
  AdGuard for Windows will not only block all types of ads in any browser and application,<br/>but also offers the highest level of online privacy protection.
 
@@ -50,7 +50,7 @@ GitHub can be used to report a bug or to submit a feature request. To do so, go 
 <a id="contribution-translating"></a>
 ### Translating AdGuard
 
-If you want to help with AdGuard translations, please learn more about translating our products [here](https://kb.adguard.com/en/general/adguard-translations).
+If you want to help with AdGuard translations, please learn more about translating our products [here](https://adguard.com/kb/miscellaneous/contribute/translate/program/).
 
 <a id="contribution-other"></a>
 ### Other options
