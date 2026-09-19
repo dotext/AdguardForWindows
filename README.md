@@ -28,9 +28,9 @@
 >* AdGuard for Windows is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
 >* View our [Privacy Policy](https://adguard.com/privacy/windows.html) (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
 
- AdGuard for Windows will not only block all types of ads in any browser and application,<br/>but also offers the highest level of online privacy protection.
+ AdGuard for Windows will not only block all types of ads in any browser and application, but also offers the highest level of online privacy protection.
 
-To get more information and to download AdGuard for Windows, visit our website [https://adguard.com/](https://adguard.com/adguard-windows/overview.html).
+To get more information and to download AdGuard for Windows, visit our website: [https://adguard.com/](https://adguard.com/adguard-windows/overview.html)
 
 <div align="center">
   <img src="https://cdn.adtidy.org/content/release_notes/ad_blocker/windows/v8.0/mainscreen_norm.png" width="430px" alt="AdGuard for Windows main screen" />
@@ -41,7 +41,7 @@ To get more information and to download AdGuard for Windows, visit our website [
 ## Contribution
 
 <a id="issue"></a>
-### How to report an issue?
+### How to report an issue
 
 GitHub can be used to report a bug or to submit a feature request. To do so, go to [this page](https://github.com/AdguardTeam/AdGuardforWindows/issues) and click the *New issue* button.
 
@@ -59,6 +59,6 @@ Here is a [dedicated page](https://adguard.com/contribute.html) for those who ar
 
 
 <a id="beta-tester"></a>
-### How to become a beta tester?
+### How to become a beta tester
 
 You can submit an application to participate in AdGuard for Windows beta-testing program. All necessary information on this topic can be found on the [dedicated page](https://adguard.com/beta.html).
