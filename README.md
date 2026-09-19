@@ -30,7 +30,7 @@
 
  AdGuard for Windows will not only block all types of ads in any browser and application, but also offers the highest level of online privacy protection.
 
-To get more information and to download AdGuard for Windows, visit our website: [https://adguard.com/](https://adguard.com/adguard-windows/overview.html)
+To get more information and to download AdGuard for Windows, [visit our website](https://adguard.com/adguard-windows/overview.html).
 
 <div align="center">
   <img src="https://cdn.adtidy.org/content/release_notes/ad_blocker/windows/v8.0/mainscreen_norm.png" width="430px" alt="AdGuard for Windows main screen" />
