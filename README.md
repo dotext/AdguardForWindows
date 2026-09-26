@@ -66,4 +66,4 @@ Here is a [dedicated page](https://adguard.com/contribute.html) for those who ar
 <a id="beta-tester"></a>
 ### How to become a beta tester
 
-You can submit an application to participate in AdGuard for Windows beta-testing program. All necessary information on this topic can be found on the [dedicated page](https://adguard.com/beta.html).
+You can submit an application to participate in the AdGuard for Windows beta-testing program. All necessary information on this topic can be found on the [dedicated page](https://adguard.com/beta.html?platform=windows).
